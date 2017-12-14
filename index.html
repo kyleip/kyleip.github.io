@@ -19,7 +19,7 @@ body {
         <strong><nav>
           <ul class="menu">
             <li><a href="{{ url_for('resume') }}">Resume</a></li>
-{#            <li><a href="{{ url_for('about') }}">About</a></li>#}
+            <!-- <li><a href="{{ url_for('about') }}">About</a></li> -->
               <li><a href="{{ url_for('linkedin') }}">LinkedIn</a></li>
               <li><a href="{{ url_for('github') }}">Github</a></li>
           </ul>
@@ -27,8 +27,6 @@ body {
       </div>
     </header>
     <div class="container">
-      {% block content %}
-      {% endblock %}
     </div>
   </body>
 
