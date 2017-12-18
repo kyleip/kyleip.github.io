@@ -1,0 +1,15 @@
+
+# Site settings
+title: Kyle Ip
+email: kip@scu.edu
+description: Kyle Ip's site
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.kyleip.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: kyleip
+
+# Build settings
+markdown: kramdown
+social:
+  links:
+    - https://github.com/kyleip

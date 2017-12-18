@@ -1,13 +1,21 @@
+---
+layout: default
+---
 <!DOCTYPE html>
+
 <html>
+<link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
+<script
+  src="https://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+<script src="semantic/dist/semantic.min.js"></script>
 <head>
 <link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
 <style>
 body {
     font-family: 'Open Sans';font-size: 22px;
-}
-img{
-  border-radius: 50%;
+    word-break: normal;
 }
 h1 {
   text-align: center;
@@ -18,42 +26,18 @@ h1 {
   padding-top:40px;
   line-height: .8;
 }
-
-.rule {
-    display: table;
-        padding-left:10.5%;}
-
-.rule>div {
-    display: table-cell;
-    white-space:nowrap;
-}
-
-.line>div {;
-    border-bottom: 1px solid silver;
-    height: 1px;
-}
-
-.words {
-    padding: 0 5px;
-    font-weight: bold;
-}
-
-.line {
-    width: 45%;
-    vertical-align: middle;
-}
 h2{
     font-size:14px;
     text-align:center;
-    position:relative;
-    z-index:2;
+    font-weight: normal;
+
 }
 p {
   line-height:10%;
   text-align: center;
   font-size: 14px;
   padding-bottom: 1%;
-  white-space: initial;
+  word-break: normal;
 }
 a {
     background-color: #white;
@@ -70,24 +54,52 @@ span.navigationSpace{
 }
 </style>
 </head>
-  <img src="static/me_cropped.jpg" width=20% height=20% style="float: left;"/>
-    <body>
-        <h1>Kyle Ip</h1>
-        <div class="rule">
-            <div class="line"><div></div></div>
-            <div class="words"><h2><i>About Me</i></h2></div>
-            <div class="line"><div></div></div>
-        </div>
-          <p>Welcome to my homepage! My name is Kyle, and I'm a Computer Science and Physics double major at Santa Clara University.</p>
-          <p>Feel free to click the links below to learn more about me.</p>
-          <hr style="width:60%; margin-bottom:10%; margin-top:2%; padding-right:15%">
-        <div style="text-align: center">
-          <a href="/static/Kyle_Ip_resume-no_address.pdf">Resume</a>
-          <span class="navigationSpace"/>
-          <a href="https://www.linkedin.com/in/kyle-ip-362767122/">LinkedIn</a>
-          <span class="navigationSpace"/>
-          <a href="https://github.com/kyleip">Github</a>
+<body>
+  <!-- <img class="ui small avatar image" src="static/me_cropped.jpg" /> -->
+<div class="ui container">
+  <div class="ui grid">
+    <div class="row">
+    				<!-- MOBILE VIEW -->
+    				<div class="sixteen wide mobile only column">
+    					{% include name_and_desc.html %}
+    				</div>
+    				<!-- TABLET VIEW -->
+    				<div class="four wide tablet only column">
+						{% include avatar.html %}
+					</div>
+					<div class="twelve wide tablet only column">
+						{% include name_and_desc.html %}
+					</div>
+					<!-- COMPUTER VIEW -->
+					<div class="three wide computer only column">
+						{% include avatar.html %}
+					</div>
+					<div class="thirteen wide computer only column">
+						{% include name_and_desc.html %}
+					</div>
+				</div>
+			</div>
+      <div class="ui header divider"></div>
+      <div class="ui three column doubling stackable grid" style="text-align: center;">
+		      <div class="column">
+            <div class="ui basic segment">
+              <a href="/static/Kyle_Ip_resume-no_address.pdf">Resume</a>
+            </div>
+          </div>
+          <!-- <span class="navigationSpace"/> -->
+          <div class="column">
+            <div class="ui basic segment">
+              <a href="https://www.linkedin.com/in/kyle-ip-362767122/">LinkedIn</a>
+            </div>
+          </div>
+          <!-- <span class="navigationSpace"/> -->
+          <div class="column">
+            <div class="ui basic segment">
+              <a href="https://github.com/kyleip">Github</a>
+            </div>
+          </div>
          </div>
+       </div>
   </body>
 
 </html>
