@@ -13,3 +13,6 @@ markdown: kramdown
 social:
   links:
     - https://github.com/kyleip
+
+plugins:
+  - jekyll-seo-tag
