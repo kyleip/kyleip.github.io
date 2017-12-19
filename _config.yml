@@ -16,3 +16,8 @@ social:
 
 plugins:
   - jekyll-seo-tag
+
+social:
+  links:
+    - https://github.com/kyleip
+    - https://www.facebook.com/kyle.ip.9
