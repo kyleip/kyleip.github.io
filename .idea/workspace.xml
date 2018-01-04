@@ -2,248 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc17a21-c484-49f9-841b-d8e6b3ab9c32" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projectdemos.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/accordion.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/accordion.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/accordion.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/accordion.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/accordion.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/accordion.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/ad.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/ad.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/ad.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/ad.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/api.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/api.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/breadcrumb.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/breadcrumb.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/breadcrumb.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/breadcrumb.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/button.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/button.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/button.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/button.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/card.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/card.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/card.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/card.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/checkbox.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/checkbox.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/checkbox.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/checkbox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/checkbox.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/checkbox.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/comment.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/comment.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/comment.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/comment.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/container.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/container.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/container.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/container.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/dimmer.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/dimmer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/dimmer.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/dimmer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/dimmer.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/dimmer.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/divider.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/divider.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/divider.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/divider.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/dropdown.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/dropdown.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/dropdown.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/dropdown.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/dropdown.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/dropdown.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/dropdown.min.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/dropdown.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/embed.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/embed.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/embed.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/embed.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/embed.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/embed.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/feed.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/feed.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/feed.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/feed.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/flag.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/flag.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/flag.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/flag.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/form.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/form.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/form.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/form.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/form.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/form.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/form.min.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/form.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/grid.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/grid.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/grid.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/grid.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/header.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/header.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/header.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/header.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/icon.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/icon.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/icon.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/icon.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/image.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/image.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/image.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/image.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/input.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/input.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/input.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/input.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/item.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/item.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/item.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/item.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/label.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/label.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/label.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/label.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/list.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/list.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/list.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/list.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/loader.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/loader.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/loader.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/loader.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/message.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/message.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/message.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/message.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/modal.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/modal.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/modal.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/modal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/modal.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/modal.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/nag.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/nag.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/nag.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/nag.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/nag.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/nag.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/popup.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/popup.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/popup.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/popup.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/popup.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/popup.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/popup.min.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/popup.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/progress.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/progress.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/progress.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/progress.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/progress.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/progress.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/progress.min.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/progress.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/rail.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/rail.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/rail.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/rail.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/rating.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/rating.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/rating.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/rating.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/rating.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/rating.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/reset.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/reset.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/reset.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/reveal.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/reveal.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/reveal.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/reveal.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/search.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/search.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/search.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/search.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/search.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/search.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/segment.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/segment.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/segment.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/segment.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/shape.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/shape.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/shape.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/shape.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/shape.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/shape.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/sidebar.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/sidebar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/sidebar.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/sidebar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/sidebar.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/sidebar.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/site.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/site.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/site.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/site.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/site.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/site.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/state.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/state.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/statistic.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/statistic.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/statistic.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/statistic.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/step.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/step.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/step.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/step.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/sticky.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/sticky.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/sticky.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/sticky.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/sticky.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/sticky.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/tab.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/tab.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/tab.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/tab.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/tab.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/tab.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/tab.min.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/tab.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/table.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/table.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/table.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/table.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/transition.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/transition.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/transition.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/transition.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/transition.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/transition.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/transition.min.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/transition.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/components/visibility.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/components/visibility.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/semantic.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/semantic.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/semantic.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/semantic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/semantic.min.css" afterPath="$PROJECT_DIR$/_site/semantic/dist/semantic.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/semantic/dist/semantic.min.js" afterPath="$PROJECT_DIR$/_site/semantic/dist/semantic.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/accordion.css" afterPath="$PROJECT_DIR$/semantic/dist/components/accordion.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/accordion.js" afterPath="$PROJECT_DIR$/semantic/dist/components/accordion.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/accordion.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/accordion.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/ad.css" afterPath="$PROJECT_DIR$/semantic/dist/components/ad.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/ad.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/ad.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/api.js" afterPath="$PROJECT_DIR$/semantic/dist/components/api.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/breadcrumb.css" afterPath="$PROJECT_DIR$/semantic/dist/components/breadcrumb.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/breadcrumb.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/breadcrumb.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/button.css" afterPath="$PROJECT_DIR$/semantic/dist/components/button.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/button.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/button.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/card.css" afterPath="$PROJECT_DIR$/semantic/dist/components/card.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/card.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/card.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/checkbox.css" afterPath="$PROJECT_DIR$/semantic/dist/components/checkbox.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/checkbox.js" afterPath="$PROJECT_DIR$/semantic/dist/components/checkbox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/checkbox.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/checkbox.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/comment.css" afterPath="$PROJECT_DIR$/semantic/dist/components/comment.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/comment.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/comment.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/container.css" afterPath="$PROJECT_DIR$/semantic/dist/components/container.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/container.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/container.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/dimmer.css" afterPath="$PROJECT_DIR$/semantic/dist/components/dimmer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/dimmer.js" afterPath="$PROJECT_DIR$/semantic/dist/components/dimmer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/dimmer.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/dimmer.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/divider.css" afterPath="$PROJECT_DIR$/semantic/dist/components/divider.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/divider.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/divider.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/dropdown.css" afterPath="$PROJECT_DIR$/semantic/dist/components/dropdown.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/dropdown.js" afterPath="$PROJECT_DIR$/semantic/dist/components/dropdown.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/dropdown.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/dropdown.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/dropdown.min.js" afterPath="$PROJECT_DIR$/semantic/dist/components/dropdown.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/embed.css" afterPath="$PROJECT_DIR$/semantic/dist/components/embed.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/embed.js" afterPath="$PROJECT_DIR$/semantic/dist/components/embed.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/embed.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/embed.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/feed.css" afterPath="$PROJECT_DIR$/semantic/dist/components/feed.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/feed.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/feed.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/flag.css" afterPath="$PROJECT_DIR$/semantic/dist/components/flag.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/flag.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/flag.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/form.css" afterPath="$PROJECT_DIR$/semantic/dist/components/form.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/form.js" afterPath="$PROJECT_DIR$/semantic/dist/components/form.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/form.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/form.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/form.min.js" afterPath="$PROJECT_DIR$/semantic/dist/components/form.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/grid.css" afterPath="$PROJECT_DIR$/semantic/dist/components/grid.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/grid.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/grid.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/header.css" afterPath="$PROJECT_DIR$/semantic/dist/components/header.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/header.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/header.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/icon.css" afterPath="$PROJECT_DIR$/semantic/dist/components/icon.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/icon.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/icon.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/image.css" afterPath="$PROJECT_DIR$/semantic/dist/components/image.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/image.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/image.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/input.css" afterPath="$PROJECT_DIR$/semantic/dist/components/input.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/input.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/input.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/item.css" afterPath="$PROJECT_DIR$/semantic/dist/components/item.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/item.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/item.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/label.css" afterPath="$PROJECT_DIR$/semantic/dist/components/label.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/label.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/label.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/list.css" afterPath="$PROJECT_DIR$/semantic/dist/components/list.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/list.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/list.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/loader.css" afterPath="$PROJECT_DIR$/semantic/dist/components/loader.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/loader.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/loader.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/message.css" afterPath="$PROJECT_DIR$/semantic/dist/components/message.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/message.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/message.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/modal.css" afterPath="$PROJECT_DIR$/semantic/dist/components/modal.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/modal.js" afterPath="$PROJECT_DIR$/semantic/dist/components/modal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/modal.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/modal.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/nag.css" afterPath="$PROJECT_DIR$/semantic/dist/components/nag.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/nag.js" afterPath="$PROJECT_DIR$/semantic/dist/components/nag.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/nag.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/nag.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/popup.css" afterPath="$PROJECT_DIR$/semantic/dist/components/popup.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/popup.js" afterPath="$PROJECT_DIR$/semantic/dist/components/popup.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/popup.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/popup.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/popup.min.js" afterPath="$PROJECT_DIR$/semantic/dist/components/popup.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/progress.css" afterPath="$PROJECT_DIR$/semantic/dist/components/progress.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/progress.js" afterPath="$PROJECT_DIR$/semantic/dist/components/progress.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/progress.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/progress.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/progress.min.js" afterPath="$PROJECT_DIR$/semantic/dist/components/progress.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/rail.css" afterPath="$PROJECT_DIR$/semantic/dist/components/rail.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/rail.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/rail.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/rating.css" afterPath="$PROJECT_DIR$/semantic/dist/components/rating.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/rating.js" afterPath="$PROJECT_DIR$/semantic/dist/components/rating.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/rating.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/rating.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/reset.css" afterPath="$PROJECT_DIR$/semantic/dist/components/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/reset.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/reset.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/reveal.css" afterPath="$PROJECT_DIR$/semantic/dist/components/reveal.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/reveal.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/reveal.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/search.css" afterPath="$PROJECT_DIR$/semantic/dist/components/search.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/search.js" afterPath="$PROJECT_DIR$/semantic/dist/components/search.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/search.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/search.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/segment.css" afterPath="$PROJECT_DIR$/semantic/dist/components/segment.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/segment.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/segment.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/shape.css" afterPath="$PROJECT_DIR$/semantic/dist/components/shape.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/shape.js" afterPath="$PROJECT_DIR$/semantic/dist/components/shape.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/shape.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/shape.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/sidebar.css" afterPath="$PROJECT_DIR$/semantic/dist/components/sidebar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/sidebar.js" afterPath="$PROJECT_DIR$/semantic/dist/components/sidebar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/sidebar.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/sidebar.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/site.css" afterPath="$PROJECT_DIR$/semantic/dist/components/site.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/site.js" afterPath="$PROJECT_DIR$/semantic/dist/components/site.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/site.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/site.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/state.js" afterPath="$PROJECT_DIR$/semantic/dist/components/state.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/statistic.css" afterPath="$PROJECT_DIR$/semantic/dist/components/statistic.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/statistic.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/statistic.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/step.css" afterPath="$PROJECT_DIR$/semantic/dist/components/step.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/step.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/step.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/sticky.css" afterPath="$PROJECT_DIR$/semantic/dist/components/sticky.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/sticky.js" afterPath="$PROJECT_DIR$/semantic/dist/components/sticky.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/sticky.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/sticky.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/tab.css" afterPath="$PROJECT_DIR$/semantic/dist/components/tab.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/tab.js" afterPath="$PROJECT_DIR$/semantic/dist/components/tab.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/tab.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/tab.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/tab.min.js" afterPath="$PROJECT_DIR$/semantic/dist/components/tab.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/table.css" afterPath="$PROJECT_DIR$/semantic/dist/components/table.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/table.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/table.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/transition.css" afterPath="$PROJECT_DIR$/semantic/dist/components/transition.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/transition.js" afterPath="$PROJECT_DIR$/semantic/dist/components/transition.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/transition.min.css" afterPath="$PROJECT_DIR$/semantic/dist/components/transition.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/transition.min.js" afterPath="$PROJECT_DIR$/semantic/dist/components/transition.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/components/visibility.js" afterPath="$PROJECT_DIR$/semantic/dist/components/visibility.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/semantic.css" afterPath="$PROJECT_DIR$/semantic/dist/semantic.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/semantic.js" afterPath="$PROJECT_DIR$/semantic/dist/semantic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/semantic.min.css" afterPath="$PROJECT_DIR$/semantic/dist/semantic.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/dist/semantic.min.js" afterPath="$PROJECT_DIR$/semantic/dist/semantic.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projectdemos.html" afterPath="$PROJECT_DIR$/projectdemos.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -267,8 +27,8 @@
       <file leaf-file-name="projectdemos.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projectdemos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#p#5;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -467,6 +227,56 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semantic/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="true" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="84" column="86" lean-forward="false" selection-start-line="84" selection-start-column="86" selection-end-line="84" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/avatar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectdemos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#p#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -692,8 +502,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projectdemos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="315">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#p#5;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
