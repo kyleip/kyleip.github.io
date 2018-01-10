@@ -7,6 +7,7 @@ description: Kyle Ip's site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.kyleip.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: kyleip
+google_analytics: UA—112274900-1
 
 # Build settings
 markdown: kramdown
